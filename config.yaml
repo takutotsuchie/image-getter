@@ -1,0 +1,7 @@
+images:
+- name: image1
+  url: https://example.com/images/image1.jpg
+- name: image2
+  url: https://example.com/images/image2.jpg
+- name: image3
+  url: https://example.com/images/image3.jpg
